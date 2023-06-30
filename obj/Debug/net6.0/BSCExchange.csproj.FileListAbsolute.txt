@@ -1,0 +1,7 @@
+E:\Projects\Web3EcoSystem\BSCExchange\obj\Debug\net6.0\BSCExchange.csproj.AssemblyReference.cache
+E:\Projects\Web3EcoSystem\BSCExchange\obj\Debug\net6.0\BSCExchange.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Web3EcoSystem\BSCExchange\obj\Debug\net6.0\BSCExchange.AssemblyInfoInputs.cache
+E:\Projects\Web3EcoSystem\BSCExchange\obj\Debug\net6.0\BSCExchange.AssemblyInfo.cs
+E:\Projects\Web3EcoSystem\BSCExchange\obj\Debug\net6.0\BSCExchange.csproj.CoreCompileInputs.cache
+E:\Projects\Web3EcoSystem\BSCExchange\obj\Debug\net6.0\BSCExchange.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\Web3EcoSystem\BSCExchange\obj\Debug\net6.0\BSCExchange.MvcApplicationPartsAssemblyInfo.cache

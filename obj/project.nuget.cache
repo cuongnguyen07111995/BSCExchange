@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "u+p1s72gWPDImxbA5toVCeUBM8xubbgxmAi9r0f5dJlWslUcQN9ZWNNX8U1OoIZgy1jyz5x7EbpFDOY+ATYd8Q==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\Web3EcoSystem\\BSCExchange\\BSCExchange.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cuong\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\cuong\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\cuong\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\cuong\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\cuong\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\cuong\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
